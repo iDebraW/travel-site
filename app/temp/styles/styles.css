@@ -460,6 +460,13 @@ a {
   text-align: center;
 }
 
+@media (min-width: 800px) {
+
+  .large-hero__text-content {
+    padding-top: 60px;
+  }
+}
+
 .large-hero__title  {
   font-weight: 300;
   color: #2f5572;
