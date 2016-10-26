@@ -11,6 +11,7 @@
 *.sass-cache
 node_modules/
 .tmp/
+.bash_profile
 
 # OS or Editor folders
 .DS_Store
@@ -28,3 +29,4 @@ nbproject
 _notes
 dwsync.xml
 .bash_profile
+.vscode/

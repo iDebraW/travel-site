@@ -1082,22 +1082,69 @@ Instead edit gulp/templates/sprite*/
   position: absolute;
   width: 100%;
   z-index: 2;
-  background-color: rgba(47,85,114, .3);
 }
 
-.site-header__button-container {
+@media (min-width: 800px) {
+
+  .site-header {
+    background-color: rgba(47,85,114, .3);
+  }
+}
+
+.site-header__btn-container {
   float: right;
 }
 
 .site-header__logo {
   position: absolute;
   top: 0;
+  left: 50%;
+  -webkit-transform: translate(-50%) scale(.8);
+          transform: translate(-50%) scale(.8);
+  -webkit-transform-origin: 50% 0;
+          transform-origin: 50% 0;
   background-color: #2f5572;
   padding: 25px 36px;
 }
 
+@media (min-width: 800px) {
+
+  .site-header__logo {
+    left: auto;
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+}
+
 .site-header__logo__graphic {
   text-indent: -9999px;
+}
+
+.site-header__menu-icon {
+  width: 20px;
+  height: 20px;
+  background-color: #FFF;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+@media (min-width: 800px) {
+
+  .site-header__menu-icon {
+    display: none;
+  }
+}
+
+.site-header__menu-content {
+  display: none;
+}
+
+@media (min-width: 800px) {
+
+  .site-header__menu-content {
+    display: block;
+  }
 }
 
 .primary-nav--pull-right {
