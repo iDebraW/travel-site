@@ -8,7 +8,6 @@ gulp.task('scripts', function(callback) {
     }
 
     console.log(stats.toString());
-    console.log("Hooray, webpack !");
     callback();
   })
 });
