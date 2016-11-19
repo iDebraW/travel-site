@@ -12,6 +12,7 @@ Working With:
 - postcss
 - webpack
 - waypoints
+- javascript
 - jquery
 - svg sprite
 - autoprefixer
