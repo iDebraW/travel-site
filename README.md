@@ -1,7 +1,22 @@
 # travel-site
 Course work for Class  :::  Git a Web Developer Job: Mastering the Modern Workflow
 
-Learning how to use Git with many other npm's.
+Using GitHub respository.
+
+Working With:
+- Git
+- Gulp
+- babel
+- css
+- normalize
+- postcss
+- webpack
+- waypoints
+- jquery
+- svg sprite
+- autoprefixer
+- lazysizes
+- browser-sync
 
 Course instructor is : Brad Schiff.
 Course is offered on Udemy.
