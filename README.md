@@ -1,6 +1,8 @@
 # travel-site
 Course work for Class  :::  Git a Web Developer Job: Mastering the Modern Workflow
 
+Completed the course 11/10/2016 - Enjoyed the course very much. Brad Schiff is a GREAT Teacher!!
+
 Using GitHub respository.
 
 Working With:
@@ -23,4 +25,3 @@ Course instructor is : Brad Schiff.
 Course is offered on Udemy.
 As of 10-16-2016 I am 55% completed on the course and have learned very much.
 
-Completed the course 11/10/2016 - Enjoyed the course very much. Brad Schiff is a GREAT Teacher!!
